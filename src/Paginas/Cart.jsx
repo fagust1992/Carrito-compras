@@ -2,7 +2,7 @@ import { useContext } from "react";
 import { Context } from "../Context/Context";
 
 const Cart = () => {
-  const { cart, total, sumar, restar } = useContext(Context);
+  const { cart, sumar, restar } = useContext(Context);
   console.log(cart);
   return (
     <>

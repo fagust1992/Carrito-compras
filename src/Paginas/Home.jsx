@@ -2,7 +2,6 @@ import { Context } from "../Context/Context";
 import { useContext } from "react";
 import { useNavigate } from "react-router-dom";
 import icono from "../Components/assets/Img/icono-pizza.png";
-import ojos from "../Components/assets/Img/eyes.png";
 
 export default function Home() {
   const navigate = useNavigate();
@@ -39,14 +38,14 @@ export default function Home() {
                     style={{ background: "#4BD4E5", border: "none" }}
                     onClick={() => navigate(`/pizza/${intem.id}`)}
                   >
-                    Ver más <img src={ojos} className="pl-2" />
+                    Ver más
                   </button>
 
                   <button
                     style={{ background: "#DF1B04", border: "none" }}
                     onClick={() => addCart(intem.id)}
                   >
-                    Añadir <img src={ojos} className="pl-2" />
+                    Añadir
                   </button>
                 </div>
 

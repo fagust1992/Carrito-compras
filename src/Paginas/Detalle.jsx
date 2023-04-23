@@ -41,7 +41,12 @@ export default function Detalle() {
                 style={{ background: "#DF1B04", border: "none" }}
                 onClick={() => addCart(dato[x].id)}
               >
-                Añadir <img src={ojos} className="pl-2" />
+                Añadir{" "}
+                <img
+                  src={ojos}
+                  className="pl-2"
+                  alt="Ícono de añadir al carrito"
+                />
               </button>
             </div>
             <div>f</div>

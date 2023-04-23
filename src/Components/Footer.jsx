@@ -12,7 +12,7 @@ const Footer = () => {
               <i className="fa-brands fa-instagram"></i>
             </a>
             <a href="/">
-              <i classnam="fa-brands fa-github"></i>
+              <i className="fa-brands fa-github"></i>
             </a>
             <a href="/">
               <i className="fa-solid fa-phone"></i>
@@ -23,4 +23,5 @@ const Footer = () => {
     </>
   );
 };
+
 export default Footer;
