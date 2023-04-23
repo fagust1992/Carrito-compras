@@ -8,13 +8,13 @@ const Footer = () => {
         <div className="autor ">
           <h2 style={{ marginRight: "7px" }}>Francisco August</h2>
           <div className="d-flex justify-content-center gap-2">
-            <a href="">
+            <a href="/">
               <i className="fa-brands fa-instagram"></i>
             </a>
-            <a href="">
+            <a href="/">
               <i classnam="fa-brands fa-github"></i>
             </a>
-            <a href="">
+            <a href="/">
               <i className="fa-solid fa-phone"></i>
             </a>
           </div>
