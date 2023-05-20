@@ -23,5 +23,4 @@ La aplicación está desarrollada utilizando React, . Además, se han utilizado 
 2. Abre una terminal y navega hasta el directorio del proyecto.
 3. Ejecuta el siguiente comando para instalar las dependencias: npm install
 4. inica la aplicacion con npm start 
-
-![Likeme-Dogs](https://https://github.com/fagust1992/Carrito-compras/blob/master/public/img/galeria.jpg?raw=true?raw=true")
+![Pizzeria](https://github.com/fagust1992/Carrito-compras/blob/master/public/img/galeria.jpg?raw=true?raw=true")
